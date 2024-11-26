@@ -1,0 +1,3 @@
+const onClickButton = () => {
+  alert("Hello");
+};
