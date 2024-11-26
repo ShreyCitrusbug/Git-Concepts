@@ -3,3 +3,14 @@ h1 {
     text-align: center;
     color: #e05151e1;
 }
+
+button {
+    background-color: #e05151e1;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
